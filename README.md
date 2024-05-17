@@ -1,6 +1,6 @@
 **ECE 57000 AI Project: Molecular Dynamics Simulation using LSTMs**
 
-This project implements the approach by Tsai et al. (2020) for generating molecular dynamics data using a language model based on Long Short-Term Memory (LSTM) neural networks.
+This project implements the approach by Tsai et al. (2020) for generating molecular dynamics trajectory using a language model based on Long Short-Term Memory (LSTM) neural networks.
 
 **Key Components**
 
